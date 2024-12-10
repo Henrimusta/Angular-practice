@@ -1,3 +1,7 @@
+#Guide by Zoaib Khan
+
+Made by following a [guide](https://youtu.be/oUmVFHlwZsI?si=GJVe97UQNIWS1Huf) on Youtube
+
 # Todolist
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.2.
